@@ -33,5 +33,5 @@ My Solution Analysis:
 
   ![image](https://github.com/xo-azeem/Fibonacci-Number-LeetCode/assets/171427226/b50dd5e8-118d-4f76-a793-25cc6ddad017)
 
-  Time complexity: O(n).</br>Space complexity: O(1).
+  Time complexity: O(n^2).</br>Space complexity: O(n).
 </div>
